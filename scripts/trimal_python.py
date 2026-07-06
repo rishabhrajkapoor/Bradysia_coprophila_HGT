@@ -1,6 +1,4 @@
-##trim the alignment in two ways:
-##1. to solely include regions overlapping with the aligned region of the top non-sciarid hit
-##2. to include columns with >60% column occupancy (trimAl)
+##trim to solely include regions overlapping with the aligned region of the top non-sciarid hit
 import pandas as pd
 import pickle
 import subprocess
