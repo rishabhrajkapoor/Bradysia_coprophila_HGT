@@ -11,7 +11,7 @@
 #SBATCH --mail-type=FAIL
 cd sciarid_species_tree/MCMC_runs/run_$1
 
-# singularity exec /cvmfs/singularity.galaxyproject.org/p/a/paml:4.10.6--h031d066_1 mcmctree ../mcmctree-outBV.ctl
+singularity exec /cvmfs/singularity.galaxyproject.org/p/a/paml:4.10.6--h031d066_1 mcmctree ../mcmctree-outBV.ctl
 
-# cp out.BV in.BV
+cp out.BV in.BV
 singularity exec /cvmfs/singularity.galaxyproject.org/p/a/paml:4.10.6--h031d066_1 mcmctree ../mcmctree.ctl
