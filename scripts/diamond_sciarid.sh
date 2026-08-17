@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #SBATCH -p sapphire # Partition to submit to (comma separated)
 #SBATCH -J diamond # Job name
