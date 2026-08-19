@@ -6,8 +6,8 @@ This repository contains Jupyter notebooks and associated helper scripts (`scrip
 | --- | --- |
 | ColabFold v.1.5.5 | [https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) |
 | MetaCyc release 29.5 | [https://metacyc.org/](https://metacyc.org/) |
-| KEGG release 2025-12-8 | [https://www.genome.jp/kegg/pathway.html](https://www.genome.jp/kegg/pathway.html) |
-| KofamKOALA release 2025-12-01 | [https://www.genome.jp/tools/kofamkoala/](https://www.genome.jp/tools/kofamkoala/) |
+| KEGG release 118.0 | [https://www.genome.jp/kegg/pathway.html](https://www.genome.jp/kegg/pathway.html) |
+| KofamKOALA release 2026-06-01 | [https://www.genome.jp/tools/kofamkoala/](https://www.genome.jp/tools/kofamkoala/) |
 | UniProtKB | [https://www.uniprot.org/uniprotkb/](https://www.uniprot.org/uniprotkb/) |
 | Biopython v.1.83 | [https://biopython.org/](https://biopython.org/) |
 | BRAKER3 | [Galaxy BRAKER3](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fgenouest%2Fbraker3%2Fbraker3%2F3.0.3%20galaxy1) |
