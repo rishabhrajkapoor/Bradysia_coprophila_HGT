@@ -13,7 +13,7 @@ This repository contains Jupyter notebooks and associated helper scripts (`scrip
 | BRAKER3 | [Galaxy BRAKER3](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fgenouest%2Fbraker3%2Fbraker3%2F3.0.3%20galaxy1) |
 | BLAST+ v.2.12.0 | [https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/) |
 | cd-hit v.4.8.1 | https://biocontainers.pro/ |
-| DeepLoc2 v.1 | [https://services.healthtech.dtu.dk/services/DeepLoc-2.0/](https://services.healthtech.dtu.dk/services/DeepLoc-2.0/) |
+| DeepLoc2.0 | [https://services.healthtech.dtu.dk/services/DeepLoc-2.0/](https://services.healthtech.dtu.dk/services/DeepLoc-2.0/) |
 | DESeq2 v.1.38.3 | [https://biocontainers.pro/](https://biocontainers.pro/) |
 | Liftoff v.1.6.3 | [https://biocontainers.pro/](https://biocontainers.pro/) |
 | Prokka v.1.14.6 | [https://biocontainers.pro/](https://biocontainers.pro/) |
