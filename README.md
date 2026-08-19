@@ -50,7 +50,7 @@ This repository contains Jupyter notebooks and associated helper scripts (`scrip
 | GffRead v.0.12.9 | [https://biocontainers.pro/](https://biocontainers.pro/) |
 | pyCirclize v.1.7.1 | [https://github.com/moshi4/pyCirclize](https://github.com/moshi4/pyCirclize) |
 | RNAnorm v.1.38.3 | https://github.com/genialis/RNAnorm |
-| BUSCO version 5.7.1 | [https://biocontainers.pro/](https://biocontainers.pro/) |
+| BUSCO v.5.7.1 | [https://biocontainers.pro/](https://biocontainers.pro/) |
 | BUSCO Phylogenomics release 20240919 | [https://github.com/jamiemcg/BUSCO_phylogenomics](https://github.com/jamiemcg/BUSCO_phylogenomics) |
 | lifelines v.0.30.0 | [https://zenodo.org/records/14007206](https://zenodo.org/records/14007206) |
 | Tracer v.1.7.2 | [https://tree.bio.ed.ac.uk/software/tracer/](https://tree.bio.ed.ac.uk/software/tracer/) |
