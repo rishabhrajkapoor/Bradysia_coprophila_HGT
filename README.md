@@ -22,7 +22,6 @@ This repository contains Jupyter notebooks and associated helper scripts (`scrip
 | SAMtools v.1.21 | [https://biocontainers.pro/](https://biocontainers.pro/) |
 | BEDTools v.2.31.1 | [https://biocontainers.pro/](https://biocontainers.pro/) |
 | scikit-learn v.1.2.0 | [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) |
-| BLAST+ v.2.12.0 | https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html |
 | ETE v.3.1.2 | [https://pypi.org/project/ete3/](https://pypi.org/project/ete3/) |
 | InterProScan webserver, release 5.77-108.0 | [https://www.ebi.ac.uk/interpro/search/sequence/](https://www.ebi.ac.uk/interpro/search/sequence/) |
 | IQ-TREE v.2.2.0.3 | [https://biocontainers.pro/](https://biocontainers.pro/) |
